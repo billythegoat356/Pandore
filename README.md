@@ -11,9 +11,7 @@
 <br><br>
 <p align="center">
 <strong>
-The easiest and fastest way to host your Python3
-<br>
-Discord Bot 24/7 for free!
+The easiest and fastest way to host your Python3 Discord Bot 24/7 for free!
 </strong>
 </p>
 <br>
