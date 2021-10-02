@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/405202771/9913a019-03ee-452c-8885-911c33f899d3", width="500", height="500">
 </p>
 
 -----
@@ -31,7 +31,7 @@ text
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/405202771/9913a019-03ee-452c-8885-911c33f899d3" width="250", height="250">
 </p>
 
 <br>
