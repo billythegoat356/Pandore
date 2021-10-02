@@ -53,7 +53,7 @@ To buy a private key, please check my <a href="https://patreon.com/billythegoat3
 <br><br>
  
 **2: Server**
-<p align="left">
+<p align="center">
 <img src="https://cdn.discordapp.com/attachments/892840615732195340/893986297914466304/unknown.png", width="500", height="500">  
 </p>
 The documentation for the server part will be available soon :-)
