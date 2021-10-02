@@ -6,28 +6,84 @@
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">🐉 Pandore 🐉</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+The easiest and fastest way to host your Python3
 <br>
-text
+Discord Bot 24/7 for free!
 </strong>
 </p>
 <br>
 
 -----
 
+### <p align="center">📚 Documentation 📚</p>
+
+<p align="center"><strong><i>If you encounter any problem while using this program, create an issue on this repository and I will help you.
+<br>
+Also, please use this program only for educational purposes, and don't forget; great power comes with great responsibility.</i></strong>
+</p>
+ 
+<br><br>
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/893985610501591110/unknown.png", width="500", height="500">  
+</p>
+  
+<br><br>
+
+First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
+It will install you the necessary libraries for the program.  
+  
+Pandore contains two parts:
+  - Client
+  - Server (hosted by me, don't touch it unless you are a developper)
+  
+**1: Client**
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/893986914464575518/unknown.png", width="500", height="500">  
+</p>
+The client part is the `main.py` file, that you will use to host your Discord Bot.
+In order for it to work, the server has to be on. But, since I host the server, don't worry about that.
+Firstly, join my <a href="discord.gg/plague">Discord</a> server, and search for 'Pandore public keys' in the download section.
+Then, once you got your public key, execute the file, enter the key, and select your mode.
+You can upload/delete your Discord Bot from the server at any moment, and it will be hosted 24/7 for free!
+To buy a private key, please check my <a href="https://patreon.com/billythegoat356/">Patreon</a>.
+<br><br>
+ 
+**2: Server**
+<p align="left">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/893986297914466304/unknown.png", width="500", height="500">  
+</p>
+The documentation for the server part will be available soon :-)
+ 
+<br><br>
+
+-----
+
+### <p align="center">⚠️ Restrictions ⚠️</p>
+
+<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
+
+<br><br>
+* You have access to a limited number of libraries
+* You can't stock information in files
+* You can only host Discord Bots coded in Python3
+<br><br>
+
+-----
+
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Easy to use</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Free</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ The bot will be on 24/7 with very low ping</strong>
 <br>
 
 <p align="right">
@@ -35,11 +91,9 @@ text
 </p>
 
 <br>
-<strong>- minus</strong>
+<strong>- Private keys are not free, so anyone can overwrite your Bot and it will stop working</strong>
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- There are some restrictions</strong>
 <br><br>
 
 -----
@@ -49,8 +103,9 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Add more libraries! If you want me to add one, feel free to make a pull request!
+* Make private keys free
+* Make a Discord Bot to generate private keys, and make it public
 <br><br>
 
 -----
