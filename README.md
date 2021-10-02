@@ -49,6 +49,10 @@ In order for it to work, the server has to be on. But, since I host the server, 
 Firstly, join my <a href="discord.gg/plague">Discord</a> server, and search for 'Pandore public keys' in the download section.
 Then, once you got your public key, execute the file, enter the key, and select your mode.
 You can upload/delete your Discord Bot from the server at any moment, and it will be hosted 24/7 for free!
+
+For the tutorial, let's try with the `example.py` file. Of course, replace the token in the code with your Bot's token.
+Then, you can
+
 To buy a private key, please check my <a href="https://patreon.com/billythegoat356/">Patreon</a>.
 <br><br>
  
