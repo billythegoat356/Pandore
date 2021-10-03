@@ -72,7 +72,7 @@ The Bot is now on! Let's test it!
 Sweet! You now know how to publish your own Discord Bot!
 
 
-To buy a private key, please check my <a href="https://patreon.com/billythegoat356/">Patreon</a>.
+To buy another key, please check my <a href="https://patreon.com/billythegoat356/">Patreon</a>.
 <br><br>
  
 **2: Server**
