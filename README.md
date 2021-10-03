@@ -51,17 +51,17 @@ The client part is the `main.py` file, that you will use to host your Discord Bo
 
 In order for it to work, the server has to be on. But, since I host the server, don't worry about that.
 
-Firstly, join my <a href="discord.gg/plague">Discord</a> server, and search for 'Pandore public keys' in the download section.
+Firstly, join my <a href="discord.gg/plague">Discord</a> server, and send `>gen` in the commands section.
 
-Then, once you got your public key, execute the file, enter the key, and select your mode.
+The Pandore Bot will send you a new key, which will allow you to host your Discord Bot!
+
+Then, once you got your key, execute the file, enter the key, and select your mode.
 
 You can upload/delete your Discord Bot from the server at any moment, and it will be hosted 24/7 for free!
 
 
 For the tutorial, let's try with the `example.py` file. Of course, replace the token in the code with your Bot's token.
 
-
-Then, you can use a random key, and upload the Bot.
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/892840615732195340/894164619222986772/unknown.png", width="500", height="500"></p>
 
