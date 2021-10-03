@@ -67,7 +67,7 @@ The Bot is now on! Let's test it!
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/892840615732195340/894164909594669056/unknown.png", width="500", height="500"></p>
 
-Sweet! You now learnt how to publish your own Discord Bot!
+Sweet! You now know how to publish your own Discord Bot!
 
 
 To buy a private key, please check my <a href="https://patreon.com/billythegoat356/">Patreon</a>.
