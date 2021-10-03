@@ -51,7 +51,11 @@ Then, once you got your public key, execute the file, enter the key, and select 
 You can upload/delete your Discord Bot from the server at any moment, and it will be hosted 24/7 for free!
 
 For the tutorial, let's try with the `example.py` file. Of course, replace the token in the code with your Bot's token.
-Then, you can
+Then, you can use a random key, and upload the Bot.
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/894164619222986772/unknown.png", width="500", height="500">
+The Bot is now on! Let's test it!
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/894164909594669056/unknown.png", width="500", height="500">
+Sweet! You now learnt how to publish your own Discord Bot!
 
 To buy a private key, please check my <a href="https://patreon.com/billythegoat356/">Patreon</a>.
 <br><br>
