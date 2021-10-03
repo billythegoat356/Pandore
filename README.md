@@ -34,6 +34,7 @@ Also, please use this program only for educational purposes, and don't forget; g
 <br><br>
 
 French tutorial on YouTube: https://www.youtube.com/watch?v=3ibpH2RUd7E&t=1s
+
 First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
 It will install you the necessary libraries for the program.  
   
