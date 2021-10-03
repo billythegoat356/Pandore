@@ -98,14 +98,16 @@ def main():
         headers = {"code":code}
         r = post(server+'post', data=data.encode('utf-8'), headers=headers)
         print()
-        input(Colorate.Diagonal(Colors.red_to_green, Center.XCenter(Box.DoubleCube(r.text))))
+        print(Colorate.Diagonal(Colors.red_to_green, Center.XCenter(Box.DoubleCube(r.text))))
     elif mode == '2':
         headers = {"code":code}
         r = delete(server+'delete', headers=headers)
         print()
-        input(Colorate.Diagonal(Colors.red_to_green, Center.XCenter(Box.DoubleCube(r.text))))
+        print(Colorate.Diagonal(Colors.red_to_green, Center.XCenter(Box.DoubleCube(r.text))))
     elif mode == '3':
         code = Write.Input("Code -> ", Colors.green_to_red, interval=0.005)
+        return
+    input()
         
 
 if __name__ == '__main__':
