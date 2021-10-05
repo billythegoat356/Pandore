@@ -107,6 +107,8 @@ def main():
     elif mode == '3':
         code = Write.Input("Code -> ", Colors.green_to_red, interval=0.005)
         return
+    else:
+        return
     input()
         
 
