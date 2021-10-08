@@ -85,18 +85,6 @@ The documentation for the server part will be available soon :-)
 
 -----
 
-### <p align="center">⚠️ Restrictions ⚠️</p>
-
-<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
-
-<br><br>
-* You have access to a limited number of libraries
-* You can't stock information in files
-* You can only host Discord Bots coded in Python3
-<br><br>
-
------
-
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
@@ -115,6 +103,18 @@ The documentation for the server part will be available soon :-)
 <strong>- Private keys are not free, so anyone can overwrite your Bot and it will stop working</strong>
 <br>
 <strong>- There are some restrictions</strong>
+<br><br>
+
+-----
+
+### <p align="center">⚠️ Restrictions ⚠️</p>
+
+<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
+
+<br><br>
+* You have access to a limited number of libraries
+* You can't stock information in files
+* You can only host Discord Bots coded in Python3
 <br><br>
 
 -----
