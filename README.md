@@ -130,6 +130,15 @@ The documentation for the server part will be available soon :-)
 <br><br>
 
 -----
+  
+### <p align="center">🎨 Contributors 🎨</p>
+
+<br><br>
+* [IDRALOU](https://github.com/IDRALOU) | Helped me to make the server more secure
+* [loTus04](https://github.com/loTus04) | Gave me some ideas to make the server more secure
+<br><br>
+ 
+-----
 
 ### <p align="center">📌 Disclaimer 📌</p>
 
