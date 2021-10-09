@@ -145,6 +145,7 @@ The documentation for the server part will be available soon :-)
 <br><br>
 * ***Please use this program only for educational purposes.***
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+* ***If something happens to your Discord Bot (ex: hacked), I decline any responsibility for it.***
 <br><br>
 
 -----
