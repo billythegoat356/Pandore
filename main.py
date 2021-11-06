@@ -2,12 +2,12 @@ from binascii import hexlify
 
 
 
-def Calamity(p: str):
+def hash(p: str):
     if not p:
-        print(None)
         return 'None'
 
-    l = len(p)*sum(int(i) for i in str(bin(int("".join(str(ord(c)) for c in p)))[2:]))
+    l = "".join(str(ord(c)) for c in p)
+    l = sum(int(i) for i in str(bin(int(l))[2:]))*sum(int(i) for i in l)
 
     p = "".join(chr(ord(char)+l) for char in p)
     p = "".join(hexlify(char.encode('utf-8')).decode() for char in p)
