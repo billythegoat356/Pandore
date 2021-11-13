@@ -20,6 +20,18 @@ images to ascii art in a few clicks!
 
 -----
 
+### <p align="center">📋 Examples 📋</p>
+
+<br><br><br>
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/909217885870784512/image.jpg" width="500", height="500">
+to
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/909218076543840327/unknown.png" width="500", height="500">
+</p>
+<br>
+
+-----
+
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
