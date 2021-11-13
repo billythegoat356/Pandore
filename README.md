@@ -11,7 +11,9 @@
 <br><br>
 <p align="center">
 <strong>
-The easiest and fastest way to create wordlists,
+This program, written in Python3 allows you to
+<br>
+create complete wordlists in a few seconds
 <br>
 based on some information on the victim.
 </strong>
