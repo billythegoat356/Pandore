@@ -11,7 +11,9 @@
 <br><br>
 <p align="center">
 <strong>
-This program, written in Python3 allows you to
+This program, written in Python3 allows you to convert
+<br>
+images to ascii art in a few clicks!
 </strong>
 </p>
 <br>
@@ -21,7 +23,11 @@ This program, written in Python3 allows you to
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ a</strong>
+<strong>+ Fast</strong>
+<br>
+<strong>+ Easy to use</strong>
+<br>
+<strong>+ Customizable scale</strong>
 <br>
 
 <p align="right">
@@ -29,7 +35,7 @@ This program, written in Python3 allows you to
 </p>
 
 <br>
-<strong>- a</strong>
+<strong>- You can only convert images with a white font otherwise it will be kind of buggy</strong>
 <br><br>
 
 -----
@@ -40,8 +46,8 @@ This program, written in Python3 allows you to
 <p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
 
 <br><br>
-* Time: 🟢
-* Complexity: 🔵
+* Time: 🔵
+* Complexity: 🟣
 * Service: 🔴
 <br><br>
 
@@ -52,7 +58,7 @@ This program, written in Python3 allows you to
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* ...
+* Replace the font with the white color so the ascii can convert normal images
 <br><br>
 
 -----
