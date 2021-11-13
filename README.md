@@ -13,7 +13,7 @@
 <strong>
 This program, written in Python3 allows you to convert
 <br>
-images to ascii art in a few clicks!
+images to ASCII art in a few clicks!
 </strong>
 </p>
 <br>
@@ -72,7 +72,7 @@ to
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Replace the font with the white color so the ascii can convert normal images
+* Replace the font with the white color so the ASCII art will have a "transparent font"
 <br><br>
 
 -----
