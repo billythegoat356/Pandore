@@ -11,7 +11,9 @@
 <br><br>
 <p align="center">
 <strong>
-The easiest and fastest way to create wordlists, based on some information on the victim.
+The easiest and fastest way to create wordlists,
+<br>
+based on some information on the victim.
 </strong>
 </p>
 <br>
