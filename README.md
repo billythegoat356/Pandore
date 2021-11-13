@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://repository-images.githubusercontent.com/405202771/9913a019-03ee-452c-8885-911c33f899d3", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/405202771/4d2005fd-b5f3-4a19-8fce-fad952163d70", width="500", height="500">
 </p>
 
 -----
@@ -29,7 +29,7 @@ The easiest and fastest way to create wordlists, based on some information on th
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/405202771/9913a019-03ee-452c-8885-911c33f899d3" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/405202771/4d2005fd-b5f3-4a19-8fce-fad952163d70" width="250", height="250">
 </p>
 
 <br>
