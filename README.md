@@ -12,10 +12,6 @@
 <p align="center">
 <strong>
 This program, written in Python3 allows you to
-<br>
-create complete wordlists in a few seconds
-<br>
-based on some information on the victim.
 </strong>
 </p>
 <br>
@@ -25,11 +21,7 @@ based on some information on the victim.
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ Easy to use</strong>
-<br>
-<strong>+ Fast</strong>
-<br>
-<strong>+ Complete wordlist</strong>
+<strong>+ a</strong>
 <br>
 
 <p align="right">
@@ -37,9 +29,7 @@ based on some information on the victim.
 </p>
 
 <br>
-<strong>- Bad optimized (I'm working on it)</strong>
-<br>
-<strong>- Not fully customizable</strong>
+<strong>- a</strong>
 <br><br>
 
 -----
@@ -62,8 +52,7 @@ based on some information on the victim.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Add more JSON fields
-* Optimize the code and the wordlist
+* ...
 <br><br>
 
 -----
@@ -73,7 +62,6 @@ based on some information on the victim.
 <br><br>
 * ***Please use this program only for educational purposes.***
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
-* ***If something happens to your Discord Bot (ex: hacked), I decline any responsibility for it.***
 <br><br>
 
 -----
