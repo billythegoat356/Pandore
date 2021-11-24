@@ -1,3 +1,8 @@
+# by billythegoat356
+
+# https://github.com/billythegoat356/Pandore
+
+
 from os import name, chdir
 from os.path import isfile
 from PIL import Image
