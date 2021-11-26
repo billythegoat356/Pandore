@@ -10,7 +10,7 @@ from pystyle import Anime, Colorate, Colors, Center, System, Write
 
 
 
-if name == 'nt':
+if name == 'nt' and __file__:
     path = '/'.join(__file__.split('\\')[:-1])
     chdir(path)
 
