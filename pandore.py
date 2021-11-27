@@ -10,11 +10,6 @@ from pystyle import Anime, Colorate, Colors, Center, System, Write
 
 
 
-if name == 'nt' and __file__:
-    path = '/'.join(__file__.split('\\')[:-1])
-    chdir(path)
-
-
 
 class build:
   def __init__(self, imagepath: str, scale: int) -> None:
